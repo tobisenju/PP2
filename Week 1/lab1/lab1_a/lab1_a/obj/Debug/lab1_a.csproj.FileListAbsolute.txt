@@ -1,0 +1,7 @@
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\obj\Debug\lab1_a.csprojAssemblyReference.cache
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\obj\Debug\lab1_a.csproj.CoreCompileInputs.cache
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\bin\Debug\lab1_a.exe.config
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\bin\Debug\lab1_a.exe
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\bin\Debug\lab1_a.pdb
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\obj\Debug\lab1_a.exe
+C:\Users\Daryn Oken\source\repos\lab1_a\lab1_a\obj\Debug\lab1_a.pdb

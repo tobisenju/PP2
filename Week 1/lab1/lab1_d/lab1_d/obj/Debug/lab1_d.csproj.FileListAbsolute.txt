@@ -1,0 +1,6 @@
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\bin\Debug\lab1_d.exe.config
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\bin\Debug\lab1_d.exe
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\bin\Debug\lab1_d.pdb
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\obj\Debug\lab1_d.csproj.CoreCompileInputs.cache
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\obj\Debug\lab1_d.exe
+C:\Users\Daryn Oken\Desktop\PP2\lab1\lab1_d\lab1_d\obj\Debug\lab1_d.pdb
